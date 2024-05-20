@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F5FF38?style=flat&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-40A9FF?style=flat&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-FF7B00?style=flat&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/JAVA-36FF90?style=flat&logo=JAVA&logoColor=white">
 </p>
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
