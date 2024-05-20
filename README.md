@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * :memo: 기초를 쌓고 사고 능력 증진을 위해 알고리즘을 꾸준히 풀어가고 있습니다.
 * :spiral_calendar: 현재 작업했던 프로젝트 내용입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahuileeee.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahuileeee&show_icons=true&theme=radical)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmakdmak12)](https://solved.ac/dmakdmak12/)
