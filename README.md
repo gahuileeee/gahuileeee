@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-F80000?style=flat&logo=HTML5&logoColor=white">
 </p>
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
