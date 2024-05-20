@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * :spiral_calendar: 현재 작업했던 [프로젝트](https://github.com/gahuileeee/project) 내용입니다.
 
 ----
-###My SKILLS
+**My SKILLS**
 <p>
     <img src="https://img.shields.io/badge/JavaScript-F5FF38?style=flat&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-40A9FF?style=flat&logo=CSS3&logoColor=white">
