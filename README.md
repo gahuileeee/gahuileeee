@@ -29,8 +29,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML5-FF7B00?style=flat&logo=HTML5&logoColor=white">
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-36FF90?style=flat&logo=JAVA&logoColor=white">
- <img src="https://img.shields.io/badge/Apache-1c03fc?style=flat&logo=Apache&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon AWS-050030?style=flat&logo=Amazon AWS&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 </p>
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
@@ -39,7 +39,13 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/JPA-00e842?style=flat&logo=JPA&logoColor=white">
         <img src="https://img.shields.io/badge/MYBATIS-e800c9?style=flat&logo=MYBATIS&logoColor=white">
 </p>
-
+<p>
+       <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
+     <img src="https://img.shields.io/badge/Apache-1c03fc?style=flat&logo=Apache&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-050030?style=flat&logo=Amazon AWS&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahuileeee&show_icons=true&theme=②default)
