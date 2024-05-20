@@ -27,12 +27,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F5FF38?style=flat&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-40A9FF?style=flat&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-FF7B00?style=flat&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-36FF90?style=flat&logo=JAVA&logoColor=white">
+ <img src="https://img.shields.io/badge/Apache-1c03fc?style=flat&logo=Apache&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-050030?style=flat&logo=Amazon AWS&logoColor=white">
 </p>
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/JPA-00e842?style=flat&logo=JPA&logoColor=white">
+        <img src="https://img.shields.io/badge/MYBATIS-e800c9?style=flat&logo=MYBATIS&logoColor=white">
 </p>
 
 
