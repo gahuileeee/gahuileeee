@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=$waving&color=7BD1D2&height=100&section=header&text=개발에%20반하다,%20개발자%20이가희입니다&fontSize=20)
 
 
-----
+---
 
 <!--
 **gahuileeee/gahuileeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * :memo: 기초를 쌓고 사고 능력 증진을 위해 [알고리즘](https://github.com/gahuileeee/codingtest)을 꾸준히 풀어가고 있습니다.
 * :spiral_calendar: 현재 작업했던 [프로젝트](https://github.com/gahuileeee/project) 내용입니다.
 
-----
+---
 **My SKILLS**
 <p>
     <img src="https://img.shields.io/badge/JavaScript-F5FF38?style=flat&logo=JavaScript&logoColor=white">
