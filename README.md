@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=개발에%20반하다,%20개발자%20이가희입니다&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=blue&height=100&section=header&text=개발에%20반하다,%20개발자%20이가희입니다&fontSize=50" />
 
 
 ---
