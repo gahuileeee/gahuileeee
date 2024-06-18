@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=100&section=header&text=개발에%20반하다,%20개발자%20이가희입니다&fontSize=20&animation=none)
+![header](https://capsule-render.vercel.app/api?type=$waving&color=6FC7E1&height=100&section=header&text=개발에%20반하다,%20개발자%20이가희입니다&fontSize=20&animation=twingkle)
 
 
 ----
