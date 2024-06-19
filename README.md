@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 * :pencil2: 현재 기초 강의 수료 후 백엔드 국비 과정을 수강 중입니다.
 * :memo: 기초를 쌓고 사고 능력 증진을 위해 [알고리즘](https://github.com/gahuileeee/codingtest)을 꾸준히 풀어가고 있습니다.
 * :spiral_calendar: 현재 작업했던 [프로젝트](https://github.com/gahuileeee/project) 내용입니다.
+* 📎: [노션](https://stream-roll-003.notion.site/RESUME-440de5e228374a99b92b390b6ae99cae?pvs=74) 이력서 입니다. 공부한 내용도 담고 있으니 둘러 주세요.
 
 ---
 **My SKILLS**
