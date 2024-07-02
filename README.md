@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br/>
+<br />
 * :pencil2: 현재 기초 강의 및 국가지원 롯데 백엔드 과정을 수료하였습니다.
 * :memo: 기초를 쌓고 사고 능력 증진을 위해 [알고리즘](https://github.com/gahuileeee/codingtest)을 꾸준히 풀어가고 있습니다.
 * :spiral_calendar: 현재 작업했던 [프로젝트](https://github.com/gahuileeee/project) 내용입니다.
