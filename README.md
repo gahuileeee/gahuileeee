@@ -2,7 +2,7 @@
 <img src="https://github.com/gahuileeee/gahuileeee/assets/141610403/a3bd1d8c-a5b7-438d-b131-45ff050ce72e" width="100%" /> 
 -->
 
-<img src="https://github.com/gahuileeee/gahuileeee/assets/141610403/8328361b-c6fd-4303-992b-0d594d998428" width="100%" />
+<img src="https://github.com/gahuileeee/gahuileeee/assets/141610403/8328361b-c6fd-4303-992b-0d594d998428" width="100%" height="300px" />
 
 <!--
 **gahuileeee/gahuileeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
