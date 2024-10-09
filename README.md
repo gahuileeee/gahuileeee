@@ -22,11 +22,14 @@ Here are some ideas to get you started:
 <br />
 
    
-* :pencil2: 현재 기초 강의 및 국가지원 롯데 백엔드 과정을 수료하였습니다.
-* :memo: 기초를 쌓고 사고 능력 증진을 위해 [알고리즘](https://github.com/gahuileeee/codingtest)을 꾸준히 풀어가고 있습니다.
+* :pencil2: 현재 JAVA 개발자로 근무 중입니다.
+* :memo: 풀었던 [알고리즘](https://github.com/gahuileeee/codingtest) 내용입니다.
 * :spiral_calendar: 현재 작업했던 [프로젝트](https://github.com/gahuileeee/project) 내용입니다.
-* 📝 [공부](https://github.com/gahuileeee/myStudy)했던 내용입니다.
+* 📝 [공부](https://github.com/gahuileeee/myStudy) 한 내용입니다.
+* 제 github을 둘러주셔서 감사합니다.
+* <--
 * 📎: [노션](https://stream-roll-003.notion.site/RESUME-440de5e228374a99b92b390b6ae99cae?pvs=74) 이력서 입니다. 프로젝트 pdf, 오류 해결한 사례 등도 담고 있으니 한 번 둘러 주십시오!
+* -->
    
 
 
