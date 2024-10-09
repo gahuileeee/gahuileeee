@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * :spiral_calendar: 현재 작업했던 [프로젝트](https://github.com/gahuileeee/project) 내용입니다.
 * 📝 [공부](https://github.com/gahuileeee/myStudy) 한 내용입니다.
 * 제 github을 둘러주셔서 감사합니다.
-* <--
+ <!--
 * 📎: [노션](https://stream-roll-003.notion.site/RESUME-440de5e228374a99b92b390b6ae99cae?pvs=74) 이력서 입니다. 프로젝트 pdf, 오류 해결한 사례 등도 담고 있으니 한 번 둘러 주십시오!
 * -->
    
